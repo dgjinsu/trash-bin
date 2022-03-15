@@ -1,8 +1,8 @@
 # trash-bin
-##What is Markdown
+## What is Markdown
 *Markdown* is a text-based markup language created by John Groover in 2004, easy to write and read, and **can be converted into HTML.**
 
-##Markdown strong point.
+## Markdown strong point.
 >1. simple
 >2. It can be written without a separate tool.
 >3. It can be converted into various forms.
