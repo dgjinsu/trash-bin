@@ -8,7 +8,7 @@
 >3. It can be converted into various forms.
 >4. Because it is stored in text, it is easy to store due to its small capacity.
 >5. Since it is a text file, the change history can be managed using a version management system.
->6. There are various programs and platforms to support.
+>6. There are various programs and platforms to support
 
 
 ### java code
